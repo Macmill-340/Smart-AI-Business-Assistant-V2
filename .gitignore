@@ -1,0 +1,27 @@
+# Local Databases & Vectors
+*.db
+*.csv
+*.sqlite3
+chroma_db/
+
+# Environments & Secrets
+.env
+.venv/
+env/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# IDE configs
+.idea/
+.vscode/
+pyproject.toml
+
+# Build artifacts
+installer_output/
+uv.lock

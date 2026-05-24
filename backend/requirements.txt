@@ -1,0 +1,51 @@
+# --- Web framework ---
+fastapi
+uvicorn[standard]
+
+# --- Frontend ---
+streamlit
+requests
+pandas
+
+# --- Database ---
+sqlmodel
+
+# --- Auth & Security ---
+pydantic
+python-dotenv
+pyjwt
+bcrypt
+python-multipart
+
+# --- LangGraph & LangChain core ---
+langgraph
+langchain
+langchain-core
+langchain-classic
+langchain-community
+
+# --- LLM provider ---
+langchain-google-genai
+
+# --- Vector store ---
+langchain-chroma
+chromadb
+
+# --- Embeddings ---
+langchain-huggingface
+sentence-transformers
+
+# --- Document loading ---
+pypdf
+langchain-text-splitters
+
+# --- Hybrid retrieval ---
+rank-bm25
+
+# --- Reranking ---
+flashrank
+# --- Web search tool ---
+tavily-python
+
+# --- HTTP client ---
+httpx
